@@ -1,6 +1,13 @@
 body{
+    background-image: url(imagenes/wallpapersden.com_milky-way-starry-sky-landscape_2499x1406.jpg);
+    background-size: 100%;
     
-    
+    color: white;
+
+}
+
+a{
+    color: rgb(149, 193, 243);
 }
 
 .info_personal{
@@ -53,4 +60,9 @@ h2{
 
  hr{
     border: 2px solid blue;
+ }
+
+ .descripcion{
+    font-size: 1.2em;
+    margin: -20px 0 0 70px;
  }
