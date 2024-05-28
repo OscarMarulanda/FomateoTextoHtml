@@ -1,3 +1,8 @@
+body{
+    
+    
+}
+
 .info_personal{
     padding-top: 15px;
     padding-left: 35px;
@@ -18,7 +23,7 @@ p{
     margin-left: 35px;
 }
 
-h2, h3{
+h2{
     margin-left: 35px;
 }
 
@@ -37,3 +42,15 @@ h2, h3{
     margin: 20px 0 0 0;
     gap: 15px;
 }
+
+.exp-item{
+    font-size: 1.2em;
+    margin-top: -15px;
+}
+ .content{
+    padding: 0 15% 0 15%;
+ }
+
+ hr{
+    border: 2px solid blue;
+ }
