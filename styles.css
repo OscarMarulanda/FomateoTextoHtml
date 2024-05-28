@@ -18,6 +18,22 @@ p{
     margin-left: 35px;
 }
 
-h2{
+h2, h3{
     margin-left: 35px;
+}
+
+
+
+.educacion{
+    margin-left: 35px;
+    display: flex;
+    flex-direction: column;
+    font-size: 1.2em;
+}
+
+
+.ed-item{
+    display: inline-flex;
+    margin: 20px 0 0 0;
+    gap: 15px;
 }
