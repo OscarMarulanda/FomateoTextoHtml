@@ -1,0 +1,23 @@
+.info_personal{
+    padding-top: 15px;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+h1{
+    padding-top: 50px;
+    margin-left: 70px;
+    padding-right: 35px;
+}
+ul{
+    list-style-type: none;
+}
+
+p{
+    font-size: 20px;
+    margin-left: 35px;
+}
+
+h2{
+    margin-left: 35px;
+}
